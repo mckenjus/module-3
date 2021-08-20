@@ -1,0 +1,11 @@
+How does the Internet work?
+the Internet is a network of connected computers sharing files between themselves. 
+they way they do this is via networks, and they are conected to the networks via routers, which are tiny computers, basically.
+the router connects to an ISP,  who have their own special routers that are connected to other ISP's networks.
+these networks talk to each other and exchange data, and bring back what you've requested to your computer.
+
+what happens when you click a link?
+When you click the link, your computer visits the cache to see if it remembers where that site is. If it doesn't know, it then goes to your router, then to your ISP, then to the ROOT.
+your browser then uses the DNS (Domain Name System, cause i didnt know what that meant.) to get an IP address to the site.
+your computer starts communicating with the HTTP server, which sends packets of information of the site to your computer. 
+If CSS is involved, it starts building out how the site should look, and if Javascript is involved, it starts telling the site how to act.
